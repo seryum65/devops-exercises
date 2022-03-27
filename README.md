@@ -810,7 +810,7 @@ True.
 <details>
 <summary>Do you agree with the statement "AWS region should be chosen based on proximity alone"?</summary><br><b>
 
-Note: opinionated answer.
+Note: Opinionated answer.
 
 No. There are a couple of factors to consider when choosing a region (order doesn't mean anything):
 
@@ -850,7 +850,7 @@ For example, you can make use of a role which allows EC2 service to acesses s3 b
 </b></details>
 
 <details>
-<summary>What are Policies?</summary><br><b>
+<summary>What Are Policies?</summary><br><b>
 
 Policies documents used to give permissions as to what a user, group or role are able to do. Their format is JSON.
 </b></details>
